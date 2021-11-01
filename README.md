@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack

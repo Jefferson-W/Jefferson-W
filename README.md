@@ -40,7 +40,7 @@
 <p align="left" style="background:yellow">
 
 <a href="https://www.linkedin.com/in/jefferson-willian-787609180/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/JeffersonWi-lightgrey?&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/Jefferson Willian-blue?&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 

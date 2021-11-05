@@ -1,7 +1,7 @@
 ### Hi👋, I'm Jefferson Willian
 
 
-- 🔥 I study Web Developer 
+- 🔥 I study systems development (Back-end and Front-end)
 
 - 🔭 I’m currently working at Mercado Eletronico
 

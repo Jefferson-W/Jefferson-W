@@ -1,4 +1,5 @@
 ### Hi👋, I'm Jefferson Willian
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jefferson-W&color=blue" alt="Profile views" /> </p>
 
 
 - 🔥 I study systems development (Back-end and Front-end)
